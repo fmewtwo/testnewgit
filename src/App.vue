@@ -13,7 +13,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <div>测试2</div>
       <div>测试3</div>
       <div>测试4</div>
-      <div>测试4</div>
+
     </div>
   </header>
 
