@@ -11,6 +11,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <HelloWorld msg="You did it!" />
       <div>测试</div>
       <div>测试2</div>
+      <div>测试3</div>
     </div>
   </header>
 
