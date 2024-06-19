@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "prepare": "husky",
-    "test": "echo \"1,你好啊，你好啊，你好啊\""
+    "test": "echo \"1,nihaoa,nihaoa,nihaoa\""
   },
   "dependencies": {
     "vue": "^3.4.21"
