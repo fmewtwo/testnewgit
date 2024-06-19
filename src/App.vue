@@ -15,6 +15,10 @@ import TheWelcome from './components/TheWelcome.vue'
       <div>测试4</div>
       <div>测试4</div>
       <div>测试4</div>
+      <div>测试3</div>
+      <div>测试3</div>
+      <div>小更改</div>
+
 
     </div>
   </header>
