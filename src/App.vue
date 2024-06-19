@@ -19,6 +19,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <div>测试3</div>
       <div>小更改</div>
       <div>小更改2</div>
+      <div>小更改3</div>
 
 
     </div>
