@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "prepare": "husky",
     "test": "echo \"1,nihaoa,nihaoa,nihaoa\"",
-    "commitlint":"commitlint --config commitlint.config.js -V"
+    "commitlint":"commitlint --config commitlint.config.js -e -V"
   },
   "dependencies": {
     "vue": "^3.4.21"
