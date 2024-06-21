@@ -8,12 +8,15 @@
     "build": "vite build",
     "preview": "vite preview",
     "prepare": "husky",
-    "test": "echo \"1,nihaoa,nihaoa,nihaoa\""
+    "test": "echo \"1,nihaoa,nihaoa,nihaoa\"",
+    "commitlint":"commitlint --config commitlint.config.js -V"
   },
   "dependencies": {
     "vue": "^3.4.21"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@vitejs/plugin-vue": "^5.0.4",
     "husky": "^9.0.11",
     "vite": "^5.2.8"
